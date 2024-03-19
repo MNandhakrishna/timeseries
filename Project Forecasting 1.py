@@ -22,6 +22,9 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.tree import DecisionTreeRegressor
 from sklearn.neighbors import KNeighborsRegressor
 
+pip install --upgrade streamlit
+
+
 
 # # importing dataset from database
 
